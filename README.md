@@ -3,4 +3,4 @@ The repository is for MIS3545 Business Intelligence and Data Analytics class. Yo
 
 
 ## Learn SQL
-Learn SQL README (<https://github.com/mis3545/MIS3545-Spring2017/blob/master/SQL/Learn%20SQL.md>)
+[Learn SQL README](https://github.com/mis3545/MIS3545-Spring2017/blob/master/SQL/Learn%20SQL.md)
